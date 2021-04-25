@@ -966,13 +966,11 @@ img.circleshadow {
   }
 }
 
-
-
 .bg {
-position: absolute;
+position: relative;
     width: 100%;
 height: 100%;
-margin-top: 240%;
+margin-top: 10%;
     
 }
  .line06 {
@@ -982,26 +980,27 @@ margin-top: 240%;
   background-size: contain;
   width: 40%;
   height: 17px;  
-  margin-top: 239.5%;
+  margin-top: -50%;
 }
 .box {
-position: absolute;
+position: relative;
 width: 65%;
 height: 70%;
 margin-left: 10%;
-margin-top: 220%;
+margin-top: -10%;
 
 }
 .bg2 {
+    position: relative;
 width: 100%; 
-margin-bottom: -365%;
+margin-top: 40%;
 }
 
 .h106 {
   position: absolute;
 width: 70%;
 margin-left: 7%;
-margin-top: -12%;
+margin-top: -13%;
 font-family: 'Play', sans-serif;
 font-style: normal;
 font-weight: bold;
@@ -1015,7 +1014,7 @@ position: absolute;
 width: 80%;
 
 margin-left: 7%;   
-margin-top: -3%;  
+margin-top: -2%;  
 text-align: left;
 
 font-family: 'Play', sans-serif;
@@ -1031,7 +1030,7 @@ color: rgba(255, 255, 255, 0.91);
   background-size: contain;
   height: 135px;
  margin-left: 76%;
-    margin-top: 40%;
+    margin-top: -180%;
     
 }
 
@@ -1052,10 +1051,10 @@ margin-top: -4%;
 }
 
 .media {
-    position: absolute;
+    position: relative;
 width: 30%;    
 margin-left: 35%;  
-margin-top: 338%;  
+margin-top: 53%;  
 
 font-family: 'Play', sans-serif;
 font-style: normal;
@@ -1066,9 +1065,9 @@ text-align: center;
 color: #FFFFFF;
 }
 .q {
-position: absolute;
+position: relative;
 width: 100%; 
-margin-top: 341%;
+margin-top: -3%;
 font-family: 'Play', sans-serif;
 font-style: normal;
 font-weight: normal;
@@ -1082,7 +1081,7 @@ color: #FFFFFF;
     height: 12%; 
     width: 10%;
 margin-left: 33%;  
-margin-top: 350%;
+margin-top: 2%;
 }
 .inst:hover {
    
@@ -1092,8 +1091,8 @@ margin-top: 350%;
     position: absolute;
 width: 15%;  
 height:12%;  
-margin-left: 43%;  
-margin-top: 350%;  
+margin-left: 42.5%;  
+margin-top: 2%;  
 }
 .tel:hover {
  
@@ -1104,7 +1103,7 @@ margin-top: 350%;
 width: 15%;
 height: 12%;  
 margin-left: 54%;
-margin-top: 350%;  
+margin-top: 2%;  
 
 }
     .vko:hover {
@@ -1117,7 +1116,7 @@ margin-top: 350%;
   background-size: contain;
   width: 40%;
   height: 17px;  
-  margin-top: 335%;
+  margin-top: -14%;
     margin-left: 60%;
 }
 
