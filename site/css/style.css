@@ -1743,13 +1743,13 @@ margin-top: 10%;
     
 }
  .line06 {
-     float: right;
      position: absolute;
   background-repeat: no-repeat;
   background-size: contain;
   width: 40%;
   height: 17px;  
   margin-top: -50%;
+    margin-right: 60%;
 }
 .box {
 position: relative;
