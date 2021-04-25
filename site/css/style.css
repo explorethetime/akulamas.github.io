@@ -764,8 +764,8 @@ margin-top: -9.3%;
 /* ..Кнопка */
 .bn {
     width: 25%;
-    height: 30%;
-    
+    height: 7%;
+    position: relative;
     margin-left: 15%;
     margin-top: 50%;
     filter: drop-shadow(0px 9px 15px rgba(219, 38, 38, 0.7));
@@ -777,9 +777,7 @@ border-radius: 40px;
     z-index: 2;
     color: white;
     font-family: 'Play', sans-serif;
-    font-size: 230%;
--webkit-appearance: none;
-    -moz-appearance: none;
+    font-size: 240%;
 }
 
 .bn:focus,
@@ -837,8 +835,8 @@ img{
 
 .test{
     display: inline-block;
-    margin-top: 160%;
-    position: absolute;
+    margin-top: 10%;
+    position: relative;
 	width: 100%;
 	height: 150%; 
 	background: black;
@@ -849,11 +847,11 @@ float: right;
   background-size: contain;
   width: 40%;
   height: 17px;  
-  margin-top: 2%;
+  margin-top: 9%;
 }
 .circleshadow {
     position: absolute;
-    margin-top: 13%;
+    margin-top: 12%;
     max-width: 52%;
 }
 
@@ -907,7 +905,7 @@ color: rgba(255, 255, 255, 0.91);
 .six {
     width: 25%;
     height: 7%;
-    position: absolute;
+    position: relative;
     margin-left: 61%;
     margin-top: 2.5%;
     filter: drop-shadow(0px 9px 15px rgba(219, 38, 38, 0.7));
@@ -919,7 +917,7 @@ border-radius: 40px;
     z-index: 2;
     color: white;
     font-family: 'Play', sans-serif;
-    font-size: 230%;
+    font-size: 240%;
 }
 
 .six:focus,
@@ -1548,7 +1546,7 @@ position: absolute;
   box-sizing: content-box;
     word-wrap: normal;
     width: 38%;
-    margin-top: 10%;
+    margin-top: 20%;
     margin-left: 54%;
     padding: 4%;
     margin-right: 6%;
@@ -1726,23 +1724,10 @@ line-height: 200%;
 text-align: center;
 color: #FFFFFF;
 }
-    
-    
-    /* ..Кнопка */
-.six {
-    width: 25%;
-    height: 7%;
+  .circleshadow {
     position: absolute;
-    margin-left: 61%;
-    margin-top: -1%;
-    filter: drop-shadow(0px 9px 15px rgba(219, 38, 38, 0.7));
-    background: black;
-border: 1px solid #000000;
-box-sizing: border-box;
-box-shadow: 0px 9px 20px rgba(0, 0, 0, 0.25);
-border-radius: 40px;
-    z-index: 2;
-    color: white;
-    font-family: 'Play', sans-serif;
-    font-size: 170%;
-}
+    margin-top: 18%;
+    max-width: 52%;
+}  
+    
+    
